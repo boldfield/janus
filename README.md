@@ -20,7 +20,7 @@ If you were using Janus before January 2012, note that Janus has gone
 through a rewrite to make it more stable and customizable. Most notably,
 you can now disable plugins using `janus#disable_plugin` and customize
 Janus using `~/.vimrc.before` and `~/.vimrc.after`. See the rest of this
-`README` and the [Customization wiki page](https://github.com/carlhuda/janus/wiki/Customization).
+`README` and the [Customization wiki page](https://github.com/boldfield/janus/wiki/Customization).
 
 To upgrade to the latest version:
 
@@ -68,14 +68,14 @@ If you don't use Homebrew, you can still download MacVim
 [here](https://github.com/b4winckler/macvim/downloads).
 
 Take a look at the [Pre-requisites wiki
-page](https://github.com/carlhuda/janus/wiki/Pre-requisites) for more
+page](https://github.com/boldfield/janus/wiki/Pre-requisites) for more
 information.
 
 
 ## Installation
 
 To install Janus, please use our [automatic
-installer](https://github.com/carlhuda/janus/blob/master/bootstrap.sh)
+installer](https://github.com/boldfield/janus/blob/master/bootstrap.sh)
 , which backs up any Vim files found in your home folder and installs
 Janus.
 
@@ -147,7 +147,7 @@ with a submodule.
 
 For more information on how to customize Janus, you might want to take
 a look at the [Customization wiki
-page](https://github.com/carlhuda/janus/wiki/Customization).
+page](https://github.com/boldfield/janus/wiki/Customization).
 
 # Intro to VIM
 
@@ -405,7 +405,7 @@ Janus ships with a few additional syntaxes:
 
 If you're looking for the old janus distribution controlled by a
 Rakefile then please head over to the [rakefile
-branch](https://github.com/carlhuda/janus/tree/rakefile) but please note
+branch](https://github.com/boldfield/janus/tree/rakefile) but please note
 that the rakefile branch will not be maintained.
 
 ## License
